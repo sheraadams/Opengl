@@ -1,6 +1,6 @@
-# Opengl
+# OpenGL Projects
 
-3D Graphics Projects in open gl to be added in the future. 
+More 3D Graphics Projects in C, C++ and openGL to be added in the future. 
 
 
 ![1670808622518](https://user-images.githubusercontent.com/110789514/209883973-c815cc23-a553-498c-b829-6c5a855a6495.jpg)
